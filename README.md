@@ -1,2 +1,2 @@
-# formulario_lista
-Projeto Faculdade - Formulario e Lista (HTML &amp; CSS)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7600a9&size=35&center=true&vCenter=true&width=1000&lines=Projeto+Formulario+e+Lista!;For+practice+HTML+and+CSS;)](https://git.io/typing-svg)
+<br>
